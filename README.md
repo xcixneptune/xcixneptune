@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcixneptune
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web development & UI/UX Design
+- 🌱 I’m currently learning web development & UI/UX Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xcixneptune@protonmail.com
 
