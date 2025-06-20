@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xcixneptune
-- 👀 I’m interested in web development & UI/UX Design
-- 🌱 I’m currently learning web development & UI/UX Design
+- 👋 Hi, I’m @xcixneptune David M Kanu
+- 👀 I’m interested in Linux system administration
+- 🌱 I’m currently learning Linux, its functionalities, and everyday uses
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xcixneptune@protonmail.com
+- 📫 How to reach me dmk.kanu19@gmail.com
 
 <!---
 xcixneptune/xcixneptune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
